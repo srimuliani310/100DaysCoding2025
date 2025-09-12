@@ -13,7 +13,7 @@ public class Main {
         // \t Tab (spasi panjang setara tabulasi)
         // \\ Menampilkan karakter backslash 
         // \" Menampilkan tanda kutip ganda
-        // \n Menampilkan tanda kutip tunggal
+        // \' Menampilkan tanda kutip tunggal
         // \b Backspace (menghapus 1 karakter sebelumnya)
         /* \r carriage return (mengembalikan kursor ke awal baris,
               sering dipakai di sistem lama/Windows)*/
