@@ -8,7 +8,6 @@ public class Main {
         final int detikPerMenit = 60; 
         System.out.println("Nilai phi : " + phi);
         System.out.println("Jumlah detik dalam 1 menit : " + detikPerMenit + " detik");
- 
+
     }
-    
 }
