@@ -5,9 +5,9 @@ public class Main {
         didefinisikan.
         */
         final double phi = 3.14;
-        final int MAX = 100;
+        final int detikPerMenit = 60; 
         System.out.println("Nilai phi : " + phi);
-        System.out.println("Nilai Maksimal : " + MAX);
+        System.out.println("Jumlah detik dalam 1 menit : " + detikPerMenit + " detik");
  
     }
     
