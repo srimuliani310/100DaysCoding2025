@@ -1,0 +1,11 @@
+package evaluasimentor;
+public class Day13 {
+     public static void main(String[] args){
+        final String nama = "Sri muliani";
+        final String NIM = "D0225310";
+        final String tanggalLahir = "15 Agustus 2007";
+         System.out.println("Nama\t\t: " + nama);
+         System.out.println("NIM\t\t: " + NIM);
+         System.out.println("Tanggal Lahir \t: " + tanggalLahir);
+     }
+}
