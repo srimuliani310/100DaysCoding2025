@@ -9,10 +9,10 @@ public class Day32 {
         System.out.print("Masukkan password: ");
         String pass = sc.nextLine();
         
-        if(usr.equalsIgnoreCase(userB) || pass.equalsIgnoreCase(passB)){
+        if(!usr.equalsIgnoreCase(userB) || !pass.equalsIgnoreCase(passB)){
             System.out.println("Login gagal");
         }else{
             System.out.println("Login berhasil");
         }
     }
-              }
+}
