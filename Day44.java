@@ -1,4 +1,3 @@
-package latihan;
 import java.util.Scanner;
 public class Day44 {
     public static void main(String[] args) {
@@ -14,8 +13,10 @@ public class Day44 {
             System.out.println("Predikat B");
         } else if (nilai >= 70 && nilai <= 79) {
             System.out.println("Predikat C");
-        } else {
-            System.out.println("Tidak lulus");
+        } else if (nilai >= 60 && nilai <= 69){
+            System.out.println("Predikat D");
+        }else{
+            System.out.println("Predikat E");
         }
     }
 }
