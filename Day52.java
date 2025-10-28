@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Day51 {
+public class Day52 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("angka: ");
