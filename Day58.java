@@ -1,10 +1,11 @@
 public class Day58 {
     public static void main(String[] args){
-        for(int i = 1 ; i<=5 ; i++){
+        int n = 5;
+        for(int i = 1 ; i<=n ; i++){
             System.out.print(i+" ");
         }
         System.out.println("");
-        for(int i = 5 ; i>=1; i--){
+        for(int i = n ; i>=1; i--){
             System.out.print(i+" ");
         }
 }
