@@ -8,7 +8,7 @@ public class Day62 {
         for (int i = 1; i <= n; i++) {
             System.out.print(i);
             if(i<n){
-                System.out.print("x");
+                System.out.print("+");
             }
             hasil+=i;
         }
